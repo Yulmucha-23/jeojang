@@ -9,15 +9,25 @@
 <h1>가장 큰 텍스트</h1>
 <h6>작은 텍스트</h6>
 <pre>띄    어 쓰    기</pre>
+<p>단락</p> #새로운 줄 시작
+<ins>밑줄</ins>
+
 <img src="이미지 주소">
 <div></div> #한줄 통째로
 <div style="background-color: aqua;"></div> #뒷 배경
 <span></span>
 <span style="background-color: burlywood;">여기만 강조</span>할때 씀
-<p>단락</p> #새로운 줄 시작
+
 <ol type="A">
     <li>물을 끓인다.</li> #리스트
     <li>라면과 스프를 넣는다.</li>
-    <li>파를 썰어 넣는다.</li>
     <li>5분후 먹는다.</li>
 </ol>
+<ul>
+   <li>.리스트  #</li> 생략 가능
+</ul>
+
+<dl>
+    <dt>용어</dt>
+    <dd>설명</dd>
+</dl>
