@@ -37,7 +37,7 @@
 <thead> #테이블 헤드
 <tr> #행
 <th>제목 셀</th>
-<td>데이터 샐</td>
+<td>데이터 샐</td> #글씨체 작아짐
 </tr>
 </thead>
 </table>
