@@ -47,3 +47,10 @@
 <tfoot></tfoot>
 
 <a>닻</a>
+
+# 시멘틱 태그
+<header>
+<footer>
+<section>
+<article>
+<aside>
