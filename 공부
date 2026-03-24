@@ -49,8 +49,9 @@
 <a>닻</a>
 
 # 시멘틱 태그
-<header>
-<footer>
-<section>
+<header> #위
+<footer> #아래
+<section> #중앙
 <article>
 <aside>
+<nav> #왼쪽
