@@ -55,3 +55,6 @@
 <article>
 <aside>
 <nav> #왼쪽
+
+cols #가로 textarea 길이
+rows #세로 textarea 길이
