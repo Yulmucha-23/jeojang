@@ -60,7 +60,7 @@ cols #가로 textarea 길이
 rows #세로 textarea 길이
 
 summary #누르면
-detail #이게 나옴
+details #이게 나옴
 textarea #텍스트 상자
 
 checkbox #중복선택 가능
