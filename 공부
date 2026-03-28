@@ -58,3 +58,13 @@
 
 cols #가로 textarea 길이
 rows #세로 textarea 길이
+
+summary 
+
+checkbox #중복선택 가능
+radio #한 name당 1개만 선택 가능
+select
+button
+lable
+datalist
+sform
