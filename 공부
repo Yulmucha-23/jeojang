@@ -53,14 +53,15 @@
 <footer> #아래
 <section> #중앙
 <article>
-<aside>
+<aside> #오른쪽
 <nav> #왼쪽
 
 cols #가로 textarea 길이
 rows #세로 textarea 길이
 
-summary 
-textarea
+summary #누르면
+detail #이게 나옴
+textarea #텍스트 상자
 
 checkbox #중복선택 가능
 radio #한 name당 1개만 선택 가능
