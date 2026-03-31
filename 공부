@@ -15,7 +15,7 @@
 <img src="이미지 주소">
 <div></div> #한줄 통째로
 <div style="background-color: aqua;"></div> #뒷 배경
-<span></span>
+<span>일부분<span> #텍스트 일부분만
 <span style="background-color: burlywood;">여기만 강조</span>할때 씀
 
 <ol type="A">
@@ -70,3 +70,21 @@ button
 lable
 datalist
 sform
+
+<input type="month" value="2026-03"> #날짜
+<input type="range">  #볼륨 막대기
+
+<input type="number" 
+    min="1"
+    max="10"
+    step="1">
+
+<input type="text" value=""
+placeholder="여기에 텍스트 입력"> 
+
+ <fieldset>
+            <legend>회원정보</legend>
+            이메일:<input type="email"><br>
+            홈페이지:<input type="url"><br>
+            전화번호:<input type="tel"><br>
+        </fieldset>
