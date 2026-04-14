@@ -12,6 +12,8 @@
 <p>단락</p> #새로운 줄 시작
 <ins>밑줄</ins>
 
+/*주석*/
+
 <img src="이미지 주소">
 <div></div> #한줄 통째로
 <div style="background-color: aqua;"></div> #뒷 배경
@@ -46,7 +48,8 @@
 <tbody></tbody>
 <tfoot></tfoot>
 
-<a>닻</a>
+<a>닻</a> #앵커
+<a href="링크">
 
 # 시멘틱 태그
 <header> #위
@@ -90,5 +93,18 @@ placeholder="여기에 텍스트 입력">
         </fieldset>
 
 <figure>
+<<<<<<< HEAD
+
+
+ul>li*3  #리스트 3개 바로 생김
+
+<style>
+        h3:first-letter{color:red;} #첫 글짜 빨간색
+        li:hover{background:yellow;} #
+    </style>
+
+text-align:right #오른쪽 정렬
+=======
 
 div>div{inlineDIV}*3
+>>>>>>> 2365844da5cbe6afbdf791142c15509bc2a4188e
