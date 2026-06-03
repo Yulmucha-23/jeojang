@@ -1,0 +1,15 @@
+.ani-text {
+  animation: colorChange 5s infinite;
+}
+@keyframes colorChange {
+  0%,
+  100% {
+    color: blue; /* 처음(0%)과 끝(100%)은 파란색 */
+  }
+  33% {
+    color: green; /* 중간 지점 1은 초록색 */
+  }
+  66% {
+    color: red; /* 중간 지점 2는 빨간색 */
+  }
+}
